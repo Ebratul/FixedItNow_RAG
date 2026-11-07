@@ -11,3 +11,10 @@ __pycache__/
 .vercel
 .env.local
 .env*
+
+# editors / OS / logs
+.DS_Store
+*.log
+.idea/
+.vscode/
+!.env.example

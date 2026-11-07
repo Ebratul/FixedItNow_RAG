@@ -1,7 +1,7 @@
 # rag_agent
 
 The AI service-discovery assistant (Python, FastAPI). Only rag_agent code belongs here.
-Design, API, safety rules and limitations: [docs/AI.md](../docs/AI.md).
+Design, API, safety rules and limitations: [docs/AI.md](https://github.com/Ebratul/fixedItNow_Backend/blob/main/docs/AI.md) (in the backend repo).
 
 ```
 app/            service code (config, pipeline, extraction, knowledge, marketplace client, OpenRouter adapter, safety)
